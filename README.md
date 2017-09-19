@@ -1,7 +1,6 @@
-# ![Emissor NF3](http://emissornf3.com.br/assets/img/logo_main.png) Emissor NF3   
 ![Emissor NF3](http://emissornf3.com.br/assets/img/logo_main.png)
 
-
+***
 
 
 **Nossos parceiros:** [2Mind Web e Mobile](https://2mind.com.br), [CP&N](http://cpen.com.br) e [FCATI](http://fcati.com.br)
